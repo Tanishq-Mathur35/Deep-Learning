@@ -63,3 +63,4 @@ if predict_button:
 
 st.markdown("---")
 st.caption("Built with ❤️ using CNN + Streamlit")
+
